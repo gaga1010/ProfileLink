@@ -5,7 +5,7 @@
 }
 
 body {
-    background-color: #760C0C;
+    background-color: #BE2424;
 }
 
 .profile {
@@ -58,7 +58,7 @@ body {
 
     font-size: 14px;
     font-weight: bold;
-    color: #760C0C;
+    color: #BE2424;
 
     display: flex;
     flex-direction: column;
